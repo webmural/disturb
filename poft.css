@@ -49,3 +49,20 @@
     0rem 8rem 3pc salmon,
     0rem 8rem 3pc blueviolet;
 }
+
+.wind {
+  text-shadow:
+    0 1vh 0,
+    0 2vh 0,
+    0 3vh 0 blueviolet,
+    0 5vh 0 darkviolet,
+    0rem -3rem 1pc magenta,
+    0rem -2rem 2pc magenta,
+    0rem -1rem 1pc magenta,
+    0rem -2rem 2pc darkviolet,
+    0rem -3rem 3pc darkviolet,
+    0rem -5rem 3pc darkviolet,
+    0rem -8rem 3pc plum,
+    0rem -8rem 3pc salmon,
+    0rem -8rem 3pc blueviolet;
+}
